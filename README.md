@@ -15,6 +15,9 @@ To install the required packages for this project, run the following commands in
 pip install qrcode Pillow
 ```
 ### Example
+
+The generated QR Code is saved in Output.jpeg
+
 ```
 Enter the URL you want to generate a QR code for: https://example.com
 QR code generated and saved as Output.jpeg
