@@ -13,3 +13,9 @@ To install the required packages for this project, run the following commands in
 ### For Python 3
 ```bash
 pip install qrcode Pillow
+```
+### Example
+``bash
+Enter the URL you want to generate a QR code for: https://example.com
+QR code generated and saved as Output.jpeg
+```
